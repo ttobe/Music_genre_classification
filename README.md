@@ -1,4 +1,4 @@
-# Music_genre_classification
+# Music_genre_classification with NUMPY
 Music_genre_classification
 
 팀 프로젝트

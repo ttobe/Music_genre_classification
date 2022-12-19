@@ -16,9 +16,9 @@
 ***
 ## 결과:
 Epoch 50/50
-[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>]
-train acc: 82.11098330094006 %
-test acc:  77.24028548770818 %
+[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>]   
+train acc: 82.11098330094006 %   
+test acc:  77.24028548770818 %   
 
 ![acc result](https://user-images.githubusercontent.com/101859033/207553124-2fd8f671-6b1e-4759-928a-329b58f7e0f2.png)
 ![loss result](https://user-images.githubusercontent.com/101859033/207553130-4b51a279-4b1a-4ca5-a357-1e639a075e63.png)

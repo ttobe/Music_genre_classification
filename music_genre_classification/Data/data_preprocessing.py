@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 # 매개변수: one hot encoding 여부, sh = 셔플사용 여부
 def data_preprocessing(one_hot_encoding = True, sh = True):
     # 같은 위에 있는 데이터 불러오기
-    df = pd.read_csv('Data/music_genre.csv')
+    df = pd.read_csv('music_genre_classification/Data/music_genre.csv')
     # 안쓸 column을 제외하기
     df = df.drop(columns= ['instance_id','artist_name','track_name', 'obtained_date'])
 

@@ -3,7 +3,8 @@
 ***
 ## 구현 방향:   
 최대한 라이브러리를 사용하지 않고 수업시간에 배운대로 numpy로만 구현하기   
-코드는 밑바닥부터 시작하는 딥러닝을 참고하였습니다.
+코드는 밑바닥부터 시작하는 딥러닝을 참고하였습니다.   
+팀프로젝트로 진행하였습니다.
 ***
 ## Best model:   
 >Batch normalization 적용   
@@ -23,7 +24,8 @@ test acc:  77.24028548770818 %
 ![loss result](https://user-images.githubusercontent.com/101859033/207553130-4b51a279-4b1a-4ca5-a357-1e639a075e63.png)
 ![acc result](https://user-images.githubusercontent.com/101859033/207553124-2fd8f671-6b1e-4759-928a-329b58f7e0f2.png)
 ***
-## pytorch로 구현한 결과   
+## pytorch로 구현한 결과 
+추후에 혼자서 파이토치로 하면 편하게 할 수 있지 않을까 해서 해보았습니다.   
 Train Accuracy:  82.39657292451707 %   
 Test Accuracy:  76.32038065027756 %
 

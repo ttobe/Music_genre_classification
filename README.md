@@ -20,8 +20,15 @@ Epoch 50/50
 train acc: 82.11098330094006 %   
 test acc:  77.24028548770818 %   
 
-![acc result](https://user-images.githubusercontent.com/101859033/207553124-2fd8f671-6b1e-4759-928a-329b58f7e0f2.png)
 ![loss result](https://user-images.githubusercontent.com/101859033/207553130-4b51a279-4b1a-4ca5-a357-1e639a075e63.png)
+![acc result](https://user-images.githubusercontent.com/101859033/207553124-2fd8f671-6b1e-4759-928a-329b58f7e0f2.png)
+***
+## pytorch로 구현한 결과   
+Train Accuracy:  82.39657292451707 %   
+Test Accuracy:  76.32038065027756 %
+
+![loss](https://user-images.githubusercontent.com/101859033/209508372-feba0706-8a63-4d24-92a6-ae1f1d27e6f9.png)
+![train_test](https://user-images.githubusercontent.com/101859033/209508382-70a5fbb5-a163-436b-bda7-eb3375a67ecb.png)
 ***
 ## 실행방법
 >1. download music_genre_classification.zip
